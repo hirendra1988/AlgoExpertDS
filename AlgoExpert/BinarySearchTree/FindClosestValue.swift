@@ -77,5 +77,7 @@ class FindClosestValue {
         print(bst.findClosestValueInBST(tree: rootnode, target: target))
     }
     
-   
+    func newMethod() {
+        
+    }
 }
