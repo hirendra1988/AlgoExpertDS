@@ -11,7 +11,8 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        let program = FindClosestValue()
+        program.testMethod()
     }
     
 }
