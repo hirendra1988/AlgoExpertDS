@@ -82,14 +82,14 @@ class FindClosestValue {
     }
     
     func testMethofForBranch1() {
-        
+        print("testMethofForBranch1")
     }
     
     func newMethodForBranch2() {
-        
+        print("testMethofForBranch2")
     }
     
     func newMethodForMainBranch() {
-        
+        print("newMethodForMainBranch")
     }
 }
