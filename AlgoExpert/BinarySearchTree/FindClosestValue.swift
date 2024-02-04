@@ -69,7 +69,7 @@ class FindClosestValue {
         }
         return closest
     }
-
+    
     func testMethod() {
         let bst =  FindClosestValue()
         var rootnode = bst.createBST()
@@ -86,6 +86,10 @@ class FindClosestValue {
     }
     
     func newMethodForBranch2() {
+        
+    }
+    
+    func newMethodForMainBranch() {
         
     }
 }
